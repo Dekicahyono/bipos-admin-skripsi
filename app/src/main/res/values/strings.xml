@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">BiposAdmin</string>
+
+    <string-array name="uploads_array">
+        <item>Top Banner</item>
+        <item>Product Popular</item>
+        <item>Best Price</item>
+        <item>Product By Category</item>
+        <item>Home Category</item>
+    </string-array>
+
+    <string-array name="category_array">
+        <item>Filter</item>
+        <item>Lampu</item>
+        <item>Aksesoris</item>
+        <item>Heater</item>
+        <item>White Goods</item>
+        <item>Sanitization</item>
+        <item>Vacum</item>
+        <item>Pompa</item>
+    </string-array>
+
+    <string-array name="home_category_array">
+        <item>Produk Lokal</item>
+        <item>Produk Import</item>
+        <item>Aksesoris</item>
+        <item>Barang Bekas</item>
+        <item>Paling Laris</item>
+        <item>Banyak Diskon</item>
+        <item>Produk Popular</item>
+        <item>Bisa Nego</item>
+        <item>Aksesoris</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main2">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+</resources>
